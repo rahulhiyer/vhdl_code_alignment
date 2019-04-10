@@ -37,25 +37,7 @@ my ($third_ref);
 
 
 #First new Statements....
-print "\n****************************************************************************
-               Honeywell Confidential and Proprietary
- This work contains valuable confidential and proprietary information.
- Disclosure, use or reproduction outside of Honeywell, Inc. is prohibited
- except as authorized in writing. This unpublished work is protected by
- the laws of the United States and other countries. If publication occurs,
- following notice shall apply:
-                     Copyright 2009, Honeywell Inc.
-                         All rights reserved.
-                Freedom of Information Act(5 USC 522) and
-         Disclosure of Confidential Information Generaly(18 USC 1905)
- This material is being furnished in confidence by Honeywell, Inc. The
- information disclosed here falls within Exemption (b)(4) of 5 USC 522
- and the prohibitions of 18 USC 1905
-****************************************************************************
-\n\n";
-
-print "\n NOTE :- This may introduce syntax error. So, kindly cross-verify it with the";
-print "\n         original file\n\n";
+print "\nThis is VHDL Code Alignment Perl Script\n\n";
 
 #==============================================================================
 # It tap the arguments
